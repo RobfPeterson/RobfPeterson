@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Robert, a current student in economics and computational mathematics at the University of Chicago. 
+I'm Robert, a current student in economics and computational and applied mathematics at the University of Chicago. 
 
 
 <!--

@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Robert, a current student in economics and computational mathematics at the University of Chicago. 
+
+
 <!--
 **RobfPeterson/RobfPeterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
